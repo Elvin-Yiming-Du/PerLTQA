@@ -95,7 +95,7 @@ The `PerLT_QA` dataset can be employed in a variety of research and application 
 - Enhancing conversational AI with personalized responses based on long-term memory.
 - Studying memory anchoring mechanisms in the context of personalized information retrieval.
 
-You can load `PerLT_QA` dataset via `class: PerLT_QA`.
+You can load `PerLT_QA` dataset via `class: PerLTQA`.
 ```
 #initialize class PerLTQA.
 dataset = PerLTQA()
