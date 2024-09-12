@@ -17,9 +17,9 @@ class Retriever:
         if model_name == "bm25":
             model_path = ""
         elif model_name == "dpr":
-            model_path = "/kfdata03/kf_grp/ydu/AgentMem_Pipeline/Multi-CPR/retrieval/output_model/agentmem_eval_model/bert-base-chinese_cls/"
+            model_path = "/bert-base-chinese_cls/"
         elif model_name == "rocketqa":
-            model_path = "/kfdata03/kf_grp/ydu/retriever/universal_retriever/baselines/RocketQA/kbp_models/"  # Your trained rocketqav2 model
+            model_path = "/retriever/universal_retriever/baselines/RocketQA/kbp_models/"  # Your trained rocketqav2 model
         else:
             model_path = ""
         self.model_path = model_path
