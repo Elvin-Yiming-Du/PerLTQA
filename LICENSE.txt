@@ -1,0 +1,28 @@
+Creative Commons Attribution-NonCommercial 4.0 International
+
+This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to:
+- Share: copy and redistribute the material in any medium or format
+- Adapt: remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial: You may not use the material for commercial purposes.
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+
+If you use this dataset, please cite the following work:
+
+```bibtex
+@inproceedings{du-etal-2024-perltqa,
+  title = {PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Fusion in Question Answering},
+  author = {Du, Yiming and Wang, Hongru and Zhao, Zhengyi and Liang, Bin and Wang, Baojun and Zhong, Wanjun and Wang, Zezhong and Wong, Kam-Fai},
+  booktitle = {Proceedings of the 10th SIGHAN Workshop on Chinese Language Processing (SIGHAN-10)},
+  month = aug,
+  year = {2024},
+  address = {Bangkok, Thailand},
+  publisher = {Association for Computational Linguistics},
+  url = {https://aclanthology.org/2024.sighan-1.18/},
+  pages = {152--164}
+}
