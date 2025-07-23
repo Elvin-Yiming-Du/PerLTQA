@@ -6,7 +6,7 @@ PerLTQA is a new benchmark for memory classification, retrieval, and synthesis o
 This dataset is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).  
 It is intended for non-commercial research use only.
 
-![PerLTQA Award](./assets/perltqa_awards.png)
+![PerLTQA Award](./assets/perltqa_awards.pdf)
 
 
 ## Citation
