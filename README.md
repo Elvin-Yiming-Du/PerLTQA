@@ -1,5 +1,12 @@
 # PerLTQA
-PerLTQA is a new benchmark for memory classification, retrieval, and synthesis of Large Language Models.
+PerLTQA is a new benchmark for memory classification, retrieval, and synthesis of Large Language Models. 
+
+
+# News
+
+[2025/12/22] The PerLTQA dataset has been udpated. It mainly fixed the inconsistency issues in the dataset.
+
+If you have any further concerns, welcome to contact us.
 
 ## License
 
